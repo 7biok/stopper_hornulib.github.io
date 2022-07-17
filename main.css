@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;700&display=swap');
+body {
+	margin:0;
+  	padding:0;
+  	background:  rgba(0,0,0,0.84) no-repeat center/110% url("background.png");
+  	display: flex;
+  	justify-content: center;
+}
+#block_info {
+	display: flex;
+    margin-top: 20px;
+    align-items: center;
+    width: 442px;
+    max-height: auto;
+    border-radius: 23px;
+    background: #232323;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.social_three {
+	margin-top: 10px;
+	display: flex;
+	margin-bottom: 10px;
+}
+#ds_logo {
+	color:  #8F8787;
+}
+#tg_logo {
+	color:  #8F8787;
+}
+#vk_logo {
+	color:  #8F8787;
+}
+.logo {
+	margin-top: 20px;
+}
+#first {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+	color: #FFFF;
+	font-weight: bold;
+}
+#info_site_text {
+		font-family: 'Ubuntu', sans-serif;
+		margin-top: 50px;
+	font-size: 27px;
+	color: #FFFF;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.donate_img {
+	background: #fff;
+	border-radius: 20px;
+	width: 220px;
+	height: 220px;
+	display: flex;
+	justify-content:  center;
+}
+#donate_text {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 27px;
+	color: #FFFF;
+	font-weight: bold;
+	text-align: center;
+}
+.info_site {
+    display: flex;
+}
+#text_citate {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 19px;
+	color: #FFFF;
+	font-weight: lighter;
+}
+#second {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+	color: #D94141;
+	font-weight: bold;
+}
